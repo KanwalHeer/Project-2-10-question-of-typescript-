@@ -1,0 +1,1 @@
+# Project-2-10-question-of-typescript-
