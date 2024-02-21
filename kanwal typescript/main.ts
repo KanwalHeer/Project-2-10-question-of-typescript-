@@ -83,10 +83,7 @@ Declare a variable value of type any and assign it a string value. Use type asse
 
 Explanation:
  Type assertion is a way to tell the TypeScript compiler about the type of a variable when you know more information than TypeScript can infer.
- this exercise helps you understand how to perform type assertion in TypeScript.
-
-These exercises cover various fundamental concepts of TypeScript and should provide a good starting point for practice. Feel free 
-to modify them or add more complexity as you become more comfortable with TypeScript. */
+ this exercise helps you understand how to perform type assertion in typescript. */
 //________________________________________________________________________________________________________________________________________________
 //                                               :::::::::SOLUTIONS::::::::::::
 //Solution # 01:
